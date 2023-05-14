@@ -1,0 +1,72 @@
+﻿body, td{
+	margin: 0px;
+	font: 12px Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.smalltxt {
+	font: 12px Arial, Helvetica, sans-serif !important;
+	font: 11px Arial, Helvetica, sans-serif;
+}
+html, body {
+	scrollbar-face-color: #15A3D9;
+	scrollbar-highlight-color: #555555;
+	scrollbar-3dlight-color: #555555;
+	scrollbar-darkshadow-color: #60B7DE;
+	scrollbar-shadow-color: #555555;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #A4D6EA;
+	background: #dae6f3;
+	
+}
+a {
+	text-decoration: none;
+	color: #555555
+}
+a:hover {
+	text-decoration: underline;
+}
+
+/* ====================================================== */
+/* ===========左侧菜单============== */
+.leftmenulist {
+	margin: 2px;
+	border: 1px solid #525C3D;
+	width: 134px;
+}
+
+.leftmenutext td {
+	background: url(bg_list.gif) repeat-x;
+	line-height: 16px;
+	height: 31px !important;
+	> height: 30px !important;
+	height: 30px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 4px;
+	border-bottom: 1px solid #BBDCF1;
+}
+
+.leftmenutext a {
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	
+}
+
+.leftmenutd td {
+	background: #FFFFFF;
+}
+
+.leftmenuinfo {
+	margin-left: 5px;
+	margin-bottom: 10px;
+	width: 120px;
+}
+
+.leftmenuinfo td{
+	height: 1.8em;
+	line-height: 1.6em;
+	border-bottom: solid 1px #A3CEEB;
+	text-indent: 8px;
+}
+

@@ -1,0 +1,33 @@
+/*程序开发公司版权所有：www.ningzhi.net */
+body,td,th {
+	font-size: 14px;
+	color: #000000;
+	font-family: "微软雅黑";
+	line-height: 25px;
+}
+body {
+	
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.red14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.kk {
+	border: 5px solid #CCE4FE;
+}
+.z24 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #01346D;
+	text-decoration: none;
+}
+li {
+	line-height: 28px;
+}
